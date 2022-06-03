@@ -35,9 +35,9 @@ life time. At the same time, your blood having too much of glucose can cause hea
 ## Results
 |Model | Accuracy |
 |:------------------:|:------------------:|
-|Logistic Regression: | 71.43 %|
 |K Nearest neighbors: |78.57 %|
+|Random Forest:|75.97 %|
 |Support Vector Classifier: |73.38 %|
 |Naive Bayes: |71.43 %|
+|Logistic Regression: | 71.43 %|
 |Decision tree:|68.18 %|
-|Random Forest:|75.97 %|
