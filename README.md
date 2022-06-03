@@ -31,10 +31,6 @@ life time. At the same time, your blood having too much of glucose can cause hea
 
 <img src='docs/Histogram.png' width = '800' height='600'>
 
-## Pairplot 
-
-<img src='docs/Pairplot.png' width = '800' height='400'>
-
 
 ## Results
 |Model | Accuracy |
